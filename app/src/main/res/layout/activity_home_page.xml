@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    tools:context=".HomePage">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/f1"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="120dp"
+        android:textColor="@color/white"
+        android:shadowColor="#AEEA00"
+        android:shadowRadius="5"
+        android:shadowDy="1"
+        android:shadowDx="1"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="Làm thế nào để chiến thắng tại xổ số"
+        android:layout_marginTop="50dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:background="@drawable/tabbar1"
+        android:gravity="center"
+        android:layout_marginHorizontal="20dp"
+        android:shadowRadius="5"
+        android:shadowColor="#AEEA00"
+        android:textSize="17dp" />
+
+    <TextView
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Hướng dẫn về xổ số"
+        android:layout_marginTop="30dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:background="@drawable/tabbar1"
+        android:gravity="center"
+        android:layout_marginHorizontal="20dp"
+        android:shadowColor="#AEEA00"
+        android:shadowRadius="5"
+        android:textSize="17dp"/>
+
+    <TextView
+        android:id="@+id/btn3"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Về xổ số"
+        android:layout_marginTop="30dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:background="@drawable/tabbar1"
+        android:gravity="center"
+        android:layout_marginHorizontal="20dp"
+        android:shadowColor="#AEEA00"
+        android:shadowRadius="5"
+        android:textSize="17dp"/>
+
+     <ImageView
+         android:layout_width="match_parent"
+         android:layout_height="120dp"
+         android:background="@drawable/customborder2"
+         android:src="@drawable/banner1"
+         android:scaleType="fitXY"
+         android:layout_marginTop="20dp"
+         android:layout_marginHorizontal="20dp"
+         android:layout_marginBottom="10dp"
+         android:contentDescription="@string/banner"/>
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

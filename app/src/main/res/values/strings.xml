@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Xổ số Ninh Thuận</string>
+
+    <string name="f1">Xổ số Ninh Thuận sẽ hướng dẫn anh em cách đánh lô đề</string>
+    <string name="back_button">back_button</string>
+
+    <string name="m10">Nếu bạn không biết bắt đầu từ đâu, việc lựa chọn trò chơi chính xác từ hàng nghìn giải xổ số trên khắp thế giới có thể là điều quá sức, nhưng sau khi bạn nắm được những kiến thức cơ bản, bạn sẽ có đủ tự tin để chọn trò chơi phù hợp cho mình.</string>
+
+    <string name="v1">Chọn xổ số để chơi - Nếu bạn không biết bắt đầu từ đâu, việc lựa chọn trò chơi chính xác từ hàng ngàn giải xổ số trên khắp thế giới có thể là quá sức, nhưng sau khi bạn nắm được những kiến thức cơ bản, bạn sẽ có đủ tự tin để chọn trò chơi phù hợp cho mình.</string>
+    <string name="v2">Chọn số của bạn - Sử dụng các tùy chọn chọn nhanh hoặc chọn dễ cho các số được chọn ngẫu nhiên là cách đơn giản nhất để chọn số lotto của bạn. Bạn nên kiểm tra số liệu thống kê nếu bạn có con số may mắn yêu thích.
+Ngay cả khi tất cả các con số đều có cùng tỷ lệ trúng thưởng, một số được rút ra ít thường xuyên hơn những con số khác. Kiểm tra xem có bất kỳ con số nào trong số này là con số may mắn của bạn không.</string>
+    <string name="v3">Mua vé - Mặc dù tùy chọn này vẫn có sẵn, những ngày mua vé số chỉ trong một cửa hàng đã qua lâu. Mua vé trực tuyến là lựa chọn thuận tiện nhất. Nhiều xổ số chính thức bán vé trực tuyến thông qua các trang web hoặc ứng dụng di động, nhưng bạn phải là công dân của quốc gia được đề cập.</string>
+    <string name="v4">Kiểm tra số của bạn - Nhiều chương trình rút thăm được phát sóng trên truyền hình; tuy nhiên, việc kiểm tra các con số trên một trang web hoặc một ứng dụng di động có thể thuận tiện hơn. Mỗi xổ số có thời gian quay thưởng riêng và bằng cách chơi trực tuyến từ một múi giờ khác nhau, bạn có thể chơi trong đêm khuya.</string>
+    <string name="v5">Nhận giải thưởng của bạn - Bạn đã kiểm tra lại số của mình và phát hiện ra rằng bạn đã thắng! Xin chúc mừng. Quá trình xác nhận giải thưởng của bạn rất đơn giản.
+Hãy lưu ý rằng mọi xổ số đều có thời hạn thanh toán, thường là từ 30 đến 180 ngày. Các giải thưởng nhỏ hơn có thể được nhận từ người bán hoặc được tự động chuyển cho bạn khi bạn chơi trực tuyến.</string>
+    <string name="v6">Đặt cược vào những con số được rút ra thường xuyên - Lịch sử có tính chu kỳ.
+Trong xổ số, các số trước đó hoặc kết hợp số có nhiều khả năng được chọn lại.
+Tất cả những gì bạn cần là một con mắt tinh tường để biết chi tiết và truy cập vào danh sách đầy đủ các kết quả xổ số PCSO trước đó, có thể tìm thấy trực tuyến rất dễ dàng.</string>
+    <string name="v7">Lập một "hồ sơ xổ số" và tổ chức nó - Mặc dù đặt cược vào tất cả các kết hợp số bằng tiền của chính bạn sẽ khiến bạn bị phá sản, nhưng có một cách thực tế hơn để làm điều đó: bằng cách gom tiền từ một nhóm lớn cá nhân.</string>
+    <string name="close_button" />
+
+    <string name="g1">Trò chơi xổ số</string>
+    <string name="g11">Trò chơi xổ số là trò chơi phổ biến nhất trong Xổ số Việt Nam, chiếm tới 40% tổng thu nhập từ xổ số. Vì nó tương đối đơn giản để chơi, nhiều người dân địa phương và thậm chí cả người nước ngoài tham gia trò chơi xổ số. Người chơi chọn số của họ và tiền thưởng được xác định bởi số lượng trùng khớp. Nếu không có ai trúng giải độc đắc, nó sẽ được chuyển sang kỳ quay thưởng tiếp theo, có khả năng tăng giải thưởng lên hàng tỷ đô la!</string>
+    <string name="g2">Trò chơi xổ số các chữ số</string>
+    <string name="g22">Đây là một loại hình xổ số hiện đại hơn khá phổ biến trên toàn thế giới. Con số này đóng góp khoảng 7% tổng thu nhập từ xổ số của Việt Nam. Người chơi chọn các số từ 0 đến 9 để tạo ra kết hợp chiến thắng trong loại hình xổ số này.</string>
+    <string name="g3">Trò chơi rút thăm nhanh</string>
+    <string name="g33">Trò chơi xổ số nhanh này, còn được gọi là Keno trên khắp thế giới, là trò chơi được người Việt Nam yêu thích, chiếm khoảng 6% tổng thu nhập từ xổ số. Bởi vì nó cung cấp các hình vẽ thường xuyên hơn, nó được những người chơi xổ số nghiêm túc ưa thích.
+Mặc dù cơ cấu giải thưởng khác nhau, trò chơi rút thăm nhanh rất đơn giản để chơi. Người chơi chỉ cần chọn những con số yêu thích của họ và số tiền họ muốn đặt cược. Họ phải đặt cược trước khi trận hòa bắt đầu. Bởi vì việc rút thăm có thể diễn ra trong vài phút, không có gì lạ khi nhìn thấy những người chơi xổ số xếp hàng dài trong các quầy xổ số.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ab1">Xổ số Việt Nam: Cách chơi</string>
+    <string name="ab11">Kết quả của xổ số Việt Nam được quyết định bởi kết quả quay số của công ty xổ số. Tổng công ty "Hà Nội" có 27 chuỗi số, trong khi các công ty khác chỉ có 18. Bạn phải ghi các chuỗi số và loại cược khi đặt cược vào một tờ vé số. Bạn giành được giải thưởng liên quan nếu bạn đặt cược vào chuỗi số thích hợp ở đúng vị trí.</string>
+<string name="ab12">Để chơi xổ số, bạn phải chọn một nhóm các số riêng biệt, chẳng hạn như 5 trong số 45 có thể có. Nhiều xổ số cũng yêu cầu bạn chọn các số thưởng, thường là một hoặc hai từ một nhóm nhỏ hơn. Để giành chiến thắng trong giải độc đắc, tất cả các số bạn đã chọn phải khớp với các số được rút ra.</string>
+    <string name="splas_screen">splas_screen</string>
+    <string name="splash_screen" />
+    <string name="banner">banner</string>
+
+
+</resources>

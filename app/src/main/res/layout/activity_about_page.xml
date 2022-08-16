@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    tools:context=".AboutPage">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tv1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="50dp"
+                android:gravity="center"
+                android:shadowColor="@color/textbody2"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="10"
+                android:text="@string/ab1"
+                android:textColor="@color/white"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv2"
+                android:layout_below="@id/tv1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/ab11"
+                android:layout_marginHorizontal="20dp"
+                android:gravity="center"
+                android:layout_marginTop="30dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="5"
+                android:shadowColor="@color/textbody2"/>
+
+            <TextView
+                android:id="@+id/tv3"
+                android:layout_below="@id/tv2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/ab12"
+                android:layout_marginHorizontal="20dp"
+                android:gravity="center"
+                android:layout_marginTop="30dp"
+                android:justificationMode="inter_word"
+                android:textSize="20dp"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="5"
+                android:shadowColor="@color/textbody2" />
+
+            <Button
+                android:id="@+id/btnA"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_below="@id/tv3"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="20dp"
+                android:backgroundTint="@color/black"
+                android:shadowColor="@color/textbody2"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="10"
+                android:text="Trở lại trang nhất"
+                android:textColor="@color/white"
+                android:textSize="15dp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>
